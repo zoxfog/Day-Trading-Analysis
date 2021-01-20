@@ -22,5 +22,5 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 #### [EDA and Feature Engineering](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/EDA_and_Feature_Engineering.ipynb):Exploring the data and preparing it for modeling. (In progress..)
 
 
-#### [Modeling](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb): (In progress..)
+#### [Modeling](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb):<span style="font-weight:normal">(In progress..)</span>
 
