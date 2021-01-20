@@ -6,7 +6,7 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 ### File Description:
 
 
-#### [Feature Breakdown and Terminology](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Feature%20Breakdown%20and%20Terminology.xlsx): descriptions of the different feature and terminologies used in the project.(In progress..)
+#### [Feature Breakdown and Terminology](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Feature%20Breakdown%20and%20Terminology.xlsx): descriptions of the different feature and terminologies used in the project. (In progress..)
 
 
 #### [fdata](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/fdata.py): class file for extracting financial data from Yahoo Finance. 
