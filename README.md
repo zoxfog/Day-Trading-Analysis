@@ -12,7 +12,7 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 #### [Data Collection and Filtering](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
 
 
-#### [Data Cleaning](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb) <span class='notbold'>but this text should not</span></h1>
+#### [Data Cleaning](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb) .notbold{font-weight:normal}​
 
 
 #### [Data Collection and Filtering](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
