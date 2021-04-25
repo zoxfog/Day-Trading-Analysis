@@ -19,8 +19,8 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 #### [Data Cleaning](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb): cleaning the data from most outliers and unusual values.
 
 
-#### [EDA and Feature Engineering](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/EDA_and_Feature_Engineering.ipynb): exploring the data and preparing it for modeling. (In progress..)
+#### [EDA and Preprocessing](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/EDA_and_Preprocessing.ipynb): exploring the data and preparing it for modeling. 
 
 
-#### [Modeling](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb): (In progress..)
+#### [Modeling](https://github.com/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb): 
 
